@@ -1,6 +1,6 @@
 # OpenWebinars Git CI
 
-This project was generated with [ngX-Rocket](https://github.com/ngx-rocket/generator-ngx-rocket/)
+This Project was generated with [ngX-Rocket](https://github.com/ngx-rocket/generator-ngx-rocket/)
 version 11.0.0
 
 # Getting started
